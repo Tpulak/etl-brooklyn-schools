@@ -17,7 +17,7 @@ This project is an ETL initiative that utilizes datasets from NYC OpenData.Speci
 
 ## Installation Requirements
 
-To run the scripts in this project, ensure you have Python installed. You will need to install the following packages:
+Install the following packages:
 
 ```bash
 pip3 install pandas sodapy python-dotenv
